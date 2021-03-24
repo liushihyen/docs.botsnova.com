@@ -2,7 +2,7 @@
 
 **Creating**
 
-You can make a POST request to albums edge from the following paths:
+You can make a POST request to audiences edge from the following paths:
 
 ```
 POST https://<API_HOST>/v1/businesses/{business_id}/audiences
