@@ -18,6 +18,7 @@ When posting to this edge, an Audience will be created.
 | email             | string          | yes      | ex. service@deus.com.tw             |
 | external_user_id  | string          | no       | ex. CRM user id                     |
 | phone_number      | string          | no       | ex. +886952881344                   |
+| picture           | string          | no       | User profile picture URL            |
 | asid              | string          | no       | Facebook App-Scoped User Id         |
 | psid              | string          | no       | Facebook Page-Scoped User Id        |
 | line_user_id      | string          | no       | LINE user id                        |
